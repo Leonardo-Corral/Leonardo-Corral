@@ -28,7 +28,7 @@ De vuelta en Chile, decidí canalizar esa curiosidad y disciplina hacia algo que
 
 - 🔭 Buscando activamente mi primera oportunidad como **Analista de Datos Junior**
 - 🌱 Profundizando en Python, SQL, Power BI e Inteligencia Artificial
-- 🌎 Inglés avanzado (Nueva Zelanda, 2021–2026)
+- 🌎 Inglés avanzado (Nueva Zelanda, 2018–2026)
 - 💼 Background en gestión, finanzas y liderazgo de equipos
 
 ---
