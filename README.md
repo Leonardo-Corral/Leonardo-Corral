@@ -22,7 +22,7 @@ Hoy, convierto esa misma curiosidad en datos.
 
 Soy Ingeniero en Administración de Empresas con mención en Finanzas, y mi camino hacia el análisis de datos no fue lineal — y esa es justamente su mayor fortaleza.
 
-Después de liderar equipos de mantenimiento y gestionar contratos en una planta industrial en Chile, y de tener mi propio emprendimiento, decidí salir de la zona de confort: viví casi 3 años en Nueva Zelanda, donde trabajé en manufactura, alcancé un nivel de inglés avanzado y aprendí a adaptarme rápido a contextos completamente nuevos.
+Después de liderar equipos de mantenimiento y gestionar contratos en una planta industrial en Chile, y de tener mi propio emprendimiento, decidí salir de la zona de confort: viví casi 8 años en Nueva Zelanda, donde trabajé en manufactura, alcancé un nivel de inglés avanzado y aprendí a adaptarme rápido a contextos completamente nuevos.
 
 De vuelta en Chile, decidí canalizar esa curiosidad y disciplina hacia algo que siempre me atrajo: **convertir datos en decisiones**. Hoy estoy finalizando mi formación en Análisis de Datos (IPS DATAX) y construyendo un portafolio real, proyecto a proyecto.
 
